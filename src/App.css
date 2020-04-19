@@ -163,5 +163,12 @@ body{
   .toDoSection{
     width:80%  ;
   }
+.login-info{
+  width:90%;
+  padding: 20px;
+  height: 50%;
+  
+}
+
 
 }
